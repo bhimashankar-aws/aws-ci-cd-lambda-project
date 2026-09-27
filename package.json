@@ -1,0 +1,9 @@
+{
+  "name": "aws-ci-cd-lambda-project",
+  "version": "1.0.0",
+  "description": "Sample application for AWS CI/CD Lambda project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  }
+}
