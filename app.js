@@ -1,2 +1,1 @@
-console.log("Hello from AWS CI/CD!");
-// CI/CD pipeline test
+console.log("CI/CD Pipeline Deployment Successful!");
