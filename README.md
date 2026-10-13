@@ -23,6 +23,6 @@ Developer pushes code to GitHub → CodePipeline detects the change → CodePipe
 CI/CD pipeline is configured and tested successfully.
 ## Author
 
-**Bhimashankar**
+**Bhimashankar Dhumal**
 
 Created by Bhimashankar as a hands-on AWS DevOps project to learn and implement CI/CD automation using AWS Lambda, GitHub, and AWS CodePipeline.
