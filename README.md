@@ -21,3 +21,8 @@ Developer pushes code to GitHub → CodePipeline detects the change → CodePipe
 
 ## Project Status
 CI/CD pipeline is configured and tested successfully.
+## Author
+
+**Bhimashankar**
+
+Created by Bhimashankar as a hands-on AWS DevOps project to learn and implement CI/CD automation using AWS Lambda, GitHub, and AWS CodePipeline.
