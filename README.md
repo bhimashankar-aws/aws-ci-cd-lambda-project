@@ -13,5 +13,11 @@ Automate the deployment process of an AWS Lambda function using GitHub and AWS C
 ## Workflow
 Developer pushes code to GitHub → CodePipeline detects the change → CodePipeline deploys the updated Lambda function.
 
+## Project Screenshots
+
+![Screenshot 1](Screenshot%202026-10-13%20150143.png)
+
+![Screenshot 2](Screenshot%202026-10-13%20150158.png)
+
 ## Project Status
 CI/CD pipeline is configured and tested successfully.
